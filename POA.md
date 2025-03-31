@@ -1,5 +1,4 @@
 # High Level Overview Of Skills Needed
-- 	Introduction to Computer Science Programming in Haskell & in C
 -   	Fundamentals of Programming in Haskell
 -   	Software Construction
 -   	Mathematics for Computer Science
